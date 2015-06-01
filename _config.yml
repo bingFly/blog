@@ -1,7 +1,7 @@
-title:            HMFAYSAL
-description:      "Omega: The Coolest Theme for Jekyll"
+title:            影子帝国
+description:      "韩兵-coder ice."
 logo:             omikron.png
-disqus_shortname: hmfaysal
+disqus_shortname: 影子兵
 # Assign a default image for your site's header and footer
 default_bg:       default_bg1.jpg
 search:           true
@@ -22,15 +22,15 @@ url:       		   /blog
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           韩兵
+  avatar:         hanbing.jpg
+  email:          hanbing_code@163.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
+  twitter:        BingFlyH
+  facebook:       韩兵
+  github:         bingFly
   stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
   linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
   instagram:      
@@ -88,8 +88,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://bingFly.github.io/blog'
+  relativeLinks: 'http://bingFly.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
