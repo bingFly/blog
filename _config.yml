@@ -48,7 +48,7 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 影子帝国
     url: /
     external: false
     icon: home
