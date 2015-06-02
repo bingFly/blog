@@ -27,3 +27,8 @@ image:
 ####我真的很想和你在一起去
 
     我没有多少文采，在一起的时候也不会表达自己。但我真的很想和你在一起。以后两个人，生活，工作。慢慢的才发现自己喜欢上了你。生活目标，生活规划又一次做出来改变。希望和你一起来做剩下的事情。
+    
+    
+<figure class="half">
+	<a href="{{ site.url }}/images/qiyin.png"><img src="{{ site.url }}/images/qiyin.png"></a>
+</figure>
