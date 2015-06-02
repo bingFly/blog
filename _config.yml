@@ -29,7 +29,7 @@ owner:
   description:    韩兵是一名屌丝程序员，在北京从事iOS开发工作，崇拜各种技术大牛，并朝着技术大牛的方向前进！
   # Social networking links used in footer. Update and remove as you like.
   twitter:        BingFlyH
-  facebook:       bing.han
+  facebook:       binghan
   github:         bingFly
   #stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
   #linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
@@ -52,7 +52,7 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> 我的文档
+  - title: <i class="icon-book"></i> 最初的你
     url: /documentation
   - title: 我的目录
     url: /categories
